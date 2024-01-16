@@ -1,0 +1,4 @@
+vizro==0.1.8
+gunicorn
+pandas
+dash-tools
